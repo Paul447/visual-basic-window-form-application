@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\WindowsApp14\WindowsApp14\bin\Debug\WindowsApp14.exe.config
+C:\Users\Dell\source\repos\WindowsApp14\WindowsApp14\bin\Debug\WindowsApp14.exe
+C:\Users\Dell\source\repos\WindowsApp14\WindowsApp14\bin\Debug\WindowsApp14.pdb
+C:\Users\Dell\source\repos\WindowsApp14\WindowsApp14\bin\Debug\WindowsApp14.xml
+C:\Users\Dell\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.Form1.resources
+C:\Users\Dell\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.Resources.resources
+C:\Users\Dell\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.vbproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.exe
+C:\Users\Dell\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.xml
+C:\Users\Dell\source\repos\WindowsApp14\WindowsApp14\obj\Debug\WindowsApp14.pdb
